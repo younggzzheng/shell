@@ -3,7 +3,7 @@ Terminal run bash shell clone that supports redirection, extensive and safe sign
 
 Use as you would with a normal bash shell.
 
-Method breakdowns:
+# Method breakdowns:
 
 main:
 Contains a REPL that reads user input using read into a buffer of size 1048. Calls process.
