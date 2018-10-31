@@ -32,6 +32,3 @@ foreground_or_background:
 
 compile by running make. That will, be default, do the prompt version.
 make 33noprompt to do the non-prompt version.
-
-signals are set to default/ignore as described in the handin. The shell itself will always
-ignore signals, while the programs themselves will have default behavior.
