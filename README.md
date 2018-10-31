@@ -1,4 +1,6 @@
 # shell
+Main code is in sh.c!
+
 Terminal run bash shell clone that supports redirection, extensive and safe signal handling, foreground/background, and many bash builtins.
 
 Use as you would with a normal bash shell.
